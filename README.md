@@ -1,9 +1,9 @@
 # Token
 
 ```
-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
+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
 ```
 # Example
 ```
-https://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@github.com/35-github/test001.git
+https://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@github.com/35-github/test001.git
 ```
